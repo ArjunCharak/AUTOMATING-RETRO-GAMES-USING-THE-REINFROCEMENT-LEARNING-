@@ -1,6 +1,3 @@
-/* 	flappy bird clone for school research thingie
-	Gilles Coremans 2016
-*/
 "use strict";
 
 /*//////////////////
